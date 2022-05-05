@@ -1,3 +1,0 @@
-"D:\APPLICATIONS\JetBrains\CLion 2020.3.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Sampat_c.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\Sampat_c.dir/objects.a @CMakeFiles\Sampat_c.dir\objects1.rsp
-C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Sampat_c.dir/objects.a -Wl,--no-whole-archive  -o Sampat_c.exe -Wl,--out-implib,libSampat_c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Sampat_c.dir\linklibs.rsp

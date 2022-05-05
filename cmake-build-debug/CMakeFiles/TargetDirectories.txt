@@ -1,3 +1,0 @@
-D:/Sampat.c/cmake-build-debug/CMakeFiles/Sampat_c.dir
-D:/Sampat.c/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Sampat.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
